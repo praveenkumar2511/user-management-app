@@ -60,7 +60,7 @@ Search
 🌍 Deployment
 
 The app is deployed live on AWS:
-🔗 Live Demo URL
+🔗 http://43.205.239.219:5173/login
 
 
 👨‍💻 Author
