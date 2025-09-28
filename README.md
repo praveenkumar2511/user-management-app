@@ -35,7 +35,7 @@ API Mocking: Mock Service Worker
 
 🚀 Getting Started
 1️⃣ Clone the repository
-git clone https://github.com/your-username/user-management-app.git
+git clone https://github.com/praveenkumar2511/user-management-app.git
 cd user-management-app
 
 2️⃣ Install dependencies
