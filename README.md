@@ -57,10 +57,11 @@ Global Search
 
 Search
 
-🌍 Deployment
+🚀 Deployment on AWS EC2 with PM2
 
-The app is deployed live on AWS:
-🔗 http://43.205.239.219:5173/login
+The application is deployed on an AWS EC2 instance and managed with PM2.
+
+🔗 Live App: http://43.205.239.219:5173/login
 
 
 👨‍💻 Author
