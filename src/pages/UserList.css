@@ -1,0 +1,11 @@
+.custom-segmented .ant-segmented-item-selected {
+  border: 2px solid #1890ff !important; /* Blue border for active segment */
+}
+
+.custom-segmented .ant-segmented-item-selected .ant-segmented-item-label {
+  color: #1890ff !important; /* Blue text for active segment label */
+}
+
+.custom-segmented .ant-segmented-item-selected .anticon {
+  color: #1890ff !important; /* Blue icon for active segment */
+}
